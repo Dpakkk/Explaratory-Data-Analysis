@@ -1,3 +1,3 @@
-# Expolatory-Data-Analysis-Height-and-Weight-
-# Exploratory-Data-Analysis-Height-and-Weight-
-# Exploratory-Data-Analysis-Height-and-Weight-
+## Expolatory-Data-Analysis-Height-and-Weight
+This shows the EDA of height and Weight data. The final conclusion of of EDA is summarize as
+
