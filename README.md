@@ -5,6 +5,8 @@ This shows the EDA of height and Weight data. The final conclusion of of EDA is 
 * Data contain equal rows for Male and Female
 * There are outlier in both Male and Female's Weight and Height
 * Male Height and Weight are comparatively greater than Female's Height and Weight
+ The Whole  Notebook is hosted here:
+ https://dpakkk.github.io/Explaratory-Data-Analysis/
  
 
 
