@@ -7,7 +7,7 @@ The final conclusion of of EDA is summarize as
 * There are outlier in both Male and Female's Weight and Height
 * Male Height and Weight are comparatively greater than Female's Height and Weight
 
-Final distribution od this analysis is shown here:
+Final distribution of this analysis is shown here:
 ![alt text](https://github.com/Dpakkk/Explaratory-Data-Analysis/blob/master/Screenshot_2020-07-07%20EDA(Height%20and%20Weight).png)
 
 
